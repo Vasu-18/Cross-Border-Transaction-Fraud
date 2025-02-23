@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-file_path = r"D:\Coding\Hackathons\union\test.csv"
+file_path = "test.csv"
 data = pd.read_csv(file_path)
 
 # Keep Customer Details for Reference
